@@ -1,12 +1,12 @@
-02777a471b9496194211c4be89d07543 *DESCRIPTION
+2ecb98f17a165cf791673234a26e76ce *DESCRIPTION
 fe6f75800e18e45aaf0bea57ebd16814 *NAMESPACE
-e2a0b4a601ed84c31904fd4fb78bf003 *R/aaa.R
+cdcfb2be96b0497d28d7f1046ad45353 *R/aaa.R
 cd4dff63fe6b8e76151846dd738ac99a *R/add-sonify.R
 5b3ba58d0a883c902979f0faf99cbe6c *R/checkSonify.R
 d28b93fe98d52c2a1c45c46dc1e0ff85 *R/expscale.R
 0d624440ad4689511595159d1047d965 *R/getDefaultMappings.R
-74f4b47ba02080c76a005ae423249480 *R/getShapeDef.R
-b4f1d7aff7382f20f53b94e972985d99 *R/getSoundParams.R
+f7723a98a956fc8027abc95fb2421a1c *R/getShapeDef.R
+c8de6ce78d247119a13ebd9d5508b594 *R/getSoundParams.R
 6574d62e66a5fcfc27bce3d728a1dc71 *R/internaldf.R
 e6a0d02e7b8943ce9c64b5dbecf1edf9 *R/internalsonify.R
 2cf3529378f6c6adb754778ea34378c1 *R/linearscale.R
@@ -32,7 +32,7 @@ ebfa1f256b795c9ab6c987d98619893a *R/scorePreprocessor.dotplot.R
 6c29bd09a6d6db3d2fd5c91b0cc016e0 *R/scorePreprocessor.scatter.R
 f1166fe1302ced6fb1a7ba45e86a3f3f *R/shape-boxplot.R
 11f62eb31716deaf04b04563ba28b5ba *R/shape-csound.R
-b1b04923ce5123e5223948e346f6999b *R/shape-descriptions.R
+d16b3149d64693f56895ff5e4c85466e *R/shape-descriptions.R
 ffe43972c5ae6b59859db218f83098e4 *R/shape-dotplot.R
 c06535539a15f9975776411d833dfd3b *R/shape-histogram.R
 71bfe39b7dd903b1d66e38a873dac7b8 *R/shape-scatter.R

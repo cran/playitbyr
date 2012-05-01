@@ -1,7 +1,7 @@
 Package: playitbyr
 Type: Package
 Title: Representing and exploring data through sound
-Version: 0.2-0
+Version: 0.2-1
 Date: 2012-05-01
 Author: Ethan Brown
 Maintainer: Ethan Brown <ethancbrown@gmail.com>
@@ -35,6 +35,6 @@ Collate: 'aaa.R' 'checkSonify.R' 'getShapeDef.R' 'internaldf.R'
         'add-sonify.R' 'print.sonify.R' 'summary.sonify.R' 'sonfacet.R'
         'shape-histogram.R' 'scorePreprocessor.histogram.R'
         'scorePreprocessor.boxplot.R' 'shape-boxplot.R'
-Packaged: 2012-05-02 01:40:14 UTC; fortis
+Packaged: 2012-05-03 12:09:50 UTC; fortis
 Repository: CRAN
-Date/Publication: 2012-05-02 06:25:48
+Date/Publication: 2012-05-03 12:52:01
